@@ -87,7 +87,7 @@ export default function App() {
                     >
                       <Image
                         fit="contain"
-                        alt="CART"
+                        alt="Cart"
                         height={70}
                         src="/cart.png"
                       />
